@@ -1,5 +1,6 @@
 Description [![Build Status](https://travis-ci.org/Bigpoint/icinga.png?branch=master)](https://travis-ci.org/Bigpoint/icinga)
 ===========
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/tolland/icinga?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Icinga offers a monitoring package for both servers and clients. In addition to that it can be expanded using check_mk
 to support server aggregation on a single master node.
